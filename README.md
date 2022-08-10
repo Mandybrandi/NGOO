@@ -1,3 +1,0 @@
-# demo
-
-new repo updated
