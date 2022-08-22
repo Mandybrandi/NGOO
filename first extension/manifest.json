@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "name": "lastest outfit",
+    "description": "latest outfit extension!",
+    "version": "1.0",
+    "chrome_url_overrides":{
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16": "/images/File_PNG_Icon_16.png",
+        "48": "/images/File_PNG_Icon_48.png",
+        "128": "images/File_PNG_Icon_128.png"
+    },
+
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "lastest outfit"
+    },
+    "permission": ["activeTab"]
+}
+
+
+
+
+
+    
+    
+    
+   
+      
+   
+      
+      
